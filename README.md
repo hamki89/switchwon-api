@@ -11,6 +11,7 @@
 1. [GET] /api/payment/balance
 
 * __Wallet__ 이라는 명칭의 테이블을 만들어 유저 각각의 지갑이 존재한다는 생각으로 설계를 하였습니다.
+* 초기 데이터는 sql 파일을 통해 미리 생성하였습니다.
 
 2. [POST] /api/payment/estimate
 
